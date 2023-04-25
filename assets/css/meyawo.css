@@ -12242,8 +12242,8 @@ pre .code {
 /* main style */
 .map_style {
   z-index: 10000000 !important;
-  width: 900px;
-  height: 710px;
+  width: 900px !important;
+  height: 710px !important;
 }
 
 @media screen and (min-width: 1024px) {
