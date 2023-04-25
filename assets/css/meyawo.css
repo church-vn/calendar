@@ -12249,7 +12249,7 @@ pre .code {
 @media screen and (min-width: 1024px) {
   .map_style {
     margin-top: 100px !important;
-    height: 550px;
+    height: 550px !important;
   }
 }
  @media screen and (max-width: 1024px) {
