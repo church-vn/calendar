@@ -12242,10 +12242,18 @@ pre .code {
 /* main style */
 .map_style {
   z-index: 10000000 !important;
+  width: 900px;
+  height: 710px;
 }
 
 @media screen and (min-width: 1024px) {
   .map_style {
     margin-top: 100px !important;
+    height: 550px;
   }
 }
+ @media screen and (max-width: 1024px) {
+   .container_for_descktop {
+     display: none !important;
+   }
+ }
