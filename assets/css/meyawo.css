@@ -12243,7 +12243,7 @@ pre .code {
 .map_style {
   z-index: 10000000 !important;
   width: 900px !important;
-  height: 710px !important;
+  height: 510px !important;
 }
 
 @media screen and (min-width: 1024px) {
